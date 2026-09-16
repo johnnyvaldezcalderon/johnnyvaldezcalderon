@@ -24,8 +24,10 @@ parece. Estudié en la Universidad APEC.
 Piezas pequeñas que cualquiera que programe para República Dominicana termina teniendo que
 escribir, y que conviene escribir una sola vez y bien:
 
-- **[cedula-rd](https://github.com/johnnyvaldezcalderon/cedula-rd)** — validación de cédula y RNC, con los dígitos verificadores que de verdad usa la DGII.
-- **[ncf-rd](https://github.com/johnnyvaldezcalderon/ncf-rd)** — comprobantes fiscales: tipos de e-CF, formato del eNCF y qué exige cada uno.
+- **[cedula-rd](https://github.com/johnnyvaldezcalderon/cedula-rd)** — validación de cédula y RNC, con los dígitos verificadores que de verdad usa la DGII y las cédulas históricas de la JCE que no pasan el cálculo y siguen siendo válidas.
+- **[ncf-rd](https://github.com/johnnyvaldezcalderon/ncf-rd)** — comprobantes fiscales electrónicos: formato del eNCF y los diez tipos de e-CF, con lo que exige cada uno.
+- **[feriados-rd](https://github.com/johnnyvaldezcalderon/feriados-rd)** — días feriados con el traslado de la Ley 139-97 bien aplicado, que es donde fallan las nóminas.
+- **[divisiones-rd](https://github.com/johnnyvaldezcalderon/divisiones-rd)** — 32 provincias, 155 municipios y 231 distritos municipales, con códigos oficiales y centroides.
 
 Salen de sistemas que están en producción, no de ejemplos de documentación.
 
