@@ -27,9 +27,14 @@ escribir, y que conviene escribir una sola vez y bien:
 - **[cedula-rd](https://github.com/johnnyvaldezcalderon/cedula-rd)** — validación de cédula y RNC, con los dígitos verificadores que de verdad usa la DGII y las cédulas históricas de la JCE que no pasan el cálculo y siguen siendo válidas.
 - **[ncf-rd](https://github.com/johnnyvaldezcalderon/ncf-rd)** — comprobantes fiscales electrónicos: formato del eNCF y los diez tipos de e-CF, con lo que exige cada uno.
 - **[feriados-rd](https://github.com/johnnyvaldezcalderon/feriados-rd)** — días feriados con el traslado de la Ley 139-97 bien aplicado, que es donde fallan las nóminas.
-- **[divisiones-rd](https://github.com/johnnyvaldezcalderon/divisiones-rd)** — 32 provincias, 155 municipios y 231 distritos municipales, con códigos oficiales y centroides.
+- **[divisiones-rd](https://github.com/johnnyvaldezcalderon/divisiones-rd)** — 32 provincias, 155 municipios, 231 distritos municipales y 12,341 barrios y parajes, con códigos oficiales y centroides.
+- **[pdf-triage](https://github.com/johnnyvaldezcalderon/pdf-triage)** — decidir qué PDF necesitan OCR antes de pagar por OCR. Sin modelo, sin API, sin red.
 
 Salen de sistemas que están en producción, no de ejemplos de documentación.
+
+Y uno que no es código:
+
+- **[Dónde vive la ley dominicana](https://github.com/johnnyvaldezcalderon/fuentes-legales-rd)** — qué publica cada uno de los cinco organismos oficiales, en qué forma, cuánto hay y qué le falta. La ley es pública y gratuita; el problema es que nadie había escrito dónde está.
 
 ### Dónde encontrarme
 
