@@ -38,7 +38,7 @@ Y uno que no es código:
 
 ### Dónde encontrarme
 
-[jsvaldez.com](https://jsvaldez.com) · [Perfil en Notifacto](https://notifacto.com/fundador) · [LinkedIn](https://www.linkedin.com/in/johnnyvaldezcalderon/) · jvaldez@bytewonders.com
+[jsvaldez.com](https://jsvaldez.com) · [Perfil en Notifacto](https://notifacto.com/fundador) · [LinkedIn](https://do.linkedin.com/in/johnnysantiagovaldezcalderon) · jvaldez@bytewonders.com
 
 ---
 
