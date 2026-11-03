@@ -16,7 +16,7 @@ parece. Estudié en la Universidad APEC.
 | | |
 |---|---|
 | **[ChatLeyes](https://chatleyes.com)** | Información legal asistida por IA para República Dominicana. Se hace una pregunta en español corriente y responde con la normativa que aplica, apoyada en más de 180,000 documentos oficiales. No sustituye a un abogado; sirve para llegar donde uno sabiendo qué preguntar. |
-| **Notifacto** | Toma una misma noticia en varios medios dominicanos y los pone lado a lado, para que se vea qué destaca cada quien y qué deja fuera. No califica a nadie: muestra las versiones. |
+| **[Notifacto](https://notifacto.com)** · [mi perfil de fundador](https://notifacto.com/fundador) | Toma una misma noticia en varios medios dominicanos y los pone lado a lado, para que se vea qué destaca cada quien y qué deja fuera. No califica a nadie: muestra las versiones. |
 | **EasyTextNow** y **Photo Print Lab** | Dos servicios en Estados Unidos que permiten a las familias escribir y enviar fotografías a un ser querido privado de libertad, sin tener que aprenderse el sistema de cada centro. |
 
 ### Lo que publico aquí
@@ -38,7 +38,7 @@ Y uno que no es código:
 
 ### Dónde encontrarme
 
-[jsvaldez.com](https://jsvaldez.com) · [LinkedIn](https://www.linkedin.com/in/johnnyvaldezcalderon/) · jvaldez@bytewonders.com
+[jsvaldez.com](https://jsvaldez.com) · [Perfil en Notifacto](https://notifacto.com/fundador) · [LinkedIn](https://www.linkedin.com/in/johnnyvaldezcalderon/) · jvaldez@bytewonders.com
 
 ---
 
